@@ -1,0 +1,19 @@
+const white = '#FFFFFF';
+
+export const colorPrimary = '#2196F3';
+export const colorPrimaryDark = '#1565C0';
+export const colorAccent = '#0091EA';
+export const backgroundColor = '#EEEEEE';
+export const textColor = '#333333';
+export const textColorSecondary = '#666666';
+export const textColorError = '#F44336';
+export const toolarBackgroundColor = colorPrimary;
+export const statusBarBackgroundColor = colorPrimaryDark;
+export const bottomBarBackgroundColor = white;
+export const iconColorActive = colorPrimaryDark;
+export const iconColorInctive = colorPrimary;
+export const avatarIconColor = white;
+export const avatarIconBackground = colorAccent;
+export const avatarEmojiColor = textColorSecondary;
+export const correctButtonColor = '#4CAF50';
+export const incorrectButtonColor = '#F44336';
